@@ -1,0 +1,5 @@
+{
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://localhost:27017/InsuranceApp",
+    "JWT_SECRET": "asdlkdjf3ashj93g2h39r2j"
+}
